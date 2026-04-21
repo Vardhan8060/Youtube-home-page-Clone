@@ -1,0 +1,84 @@
+.video-grid   {
+                
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr ;
+            column-gap: 40px;
+            row-gap: 30px;
+
+}
+
+@media (max-width: 750px) {
+    .video-grid {
+        grid-template-columns: 1fr  ;
+    
+    }
+}
+
+
+@media (min-width: 751px) and (max-width: 1365px){
+    .video-grid {
+        grid-template-columns: 1fr 1fr ;
+    }
+}
+
+@media (min-width: 1366px) {
+    .video-grid {
+
+        grid-template-columns: 1fr 1fr 1fr 1fr ;
+        display: -ms-inline-grid
+
+    }
+}
+
+.youtube-clone {
+    width: 300px;
+    
+}
+
+
+
+.channel-info {
+        display: grid;
+        grid-template-columns: 60px 1fr;
+
+
+}
+
+
+p {
+    font-family: roboto, arial, sans-serif;
+    display: block;
+    margin: 0;
+}
+
+.song-name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 12px;
+
+}
+
+.singer {
+    font-size: 12px;
+    color: #606060;
+    margin-bottom: 6px;
+}
+
+.stats {
+    font-size: 12px;
+    color: #606060;
+  
+}
+
+
+
+body {
+    margin-top:0px;
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 10px;
+    background-color: #f7f4f4;
+    
+}
+
+   
