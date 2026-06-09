@@ -7,7 +7,7 @@
 
 https://vardhan8060.github.io/Youtube-home-page-Clone/
 
-Important notice :-
+Disclaimer :-
 
 This website is an educational portfolio project created for learning Frontend development.
 
@@ -15,7 +15,6 @@ Some visitors may see a browser security warning due to an automated website cla
 
 The source code for this project is publicly available in this GitHub repository and can be reviewed by anyone.
 
-This website is provided solely for educational and demonstration purposes and is not affiliated with, endorsed by, or connected to Amazon.com, Inc.
 
 
 # About the Project
